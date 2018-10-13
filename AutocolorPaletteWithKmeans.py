@@ -31,7 +31,7 @@ for f in listdir(dirEntrada):
             soimagens.append(f)
 
 
-#%% Inserir as cores desejadas no vetor abaixo
+#%%
 
 from sklearn.cluster import KMeans
 
