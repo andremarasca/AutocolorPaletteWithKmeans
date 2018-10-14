@@ -36,7 +36,7 @@ for f in listdir(dirEntrada):
 from sklearn.cluster import KMeans
 
 # número de cores de cada imagem
-numero_cores = [3, 3, 4]
+numero_cores = [4, 3, 4]
 
 
 
